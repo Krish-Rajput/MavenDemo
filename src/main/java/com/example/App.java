@@ -5,5 +5,6 @@ public class App{
         System.out.println("Hello, Maven!");
         System.out.println("Java Version: 21");
         System.out.println("Maven project built successfully.");
+        System.out.println("Minor Change applied");
     }
 }
